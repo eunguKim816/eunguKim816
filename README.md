@@ -24,6 +24,6 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stat 📋 </h2>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunguKim816&show_icons=true&theme=Gradient)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunguKim816&show_icons=true&theme=panda)    
 
 <br>
