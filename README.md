@@ -1,5 +1,5 @@
  <div class="header">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=F5C0CA&height=150&section=header&text=Welcome%20🐣&desc=to%20Eunsu's%20GitHub&fontColor=FFFAFA&fontSize=42&fontAlign=53&fontAlignY=45&descSize=25&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=F5C0CA&height=130&section=header&text=Welcome%20🐣&desc=to%20Eunsu's%20GitHub&fontColor=FFFAFA&fontSize=42&fontAlign=53&fontAlignY=45&descSize=25&descAlign=50&descAlignY=70" />
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me 👧👍 </h2>
