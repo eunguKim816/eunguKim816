@@ -1,10 +1,11 @@
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Eunsu's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Eunsu's GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=F5C0CA&height=150&section=header&text=Welcome%20🐣&desc=to%20Eunsu's%20GitHub&fontColor=FFFAFA&fontSize=42&fontAlign=53&fontAlignY=45&descSize=25&descAlign=50&descAlignY=70" />
     </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Contact me 👧👍 </h2>
     <div align= "center">
          <a href=mailto:eses816@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eses816@gmail.com"> </a>
+     
           </div><br>
     <div align= "center">  </div> 
 <div align= "center">
