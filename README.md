@@ -20,4 +20,10 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     </div>
-</div><br>
+</div>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
+    <div align= "center">
+      <img src="https://raw.githubusercontent.com/깃허브아이디/깃허브아이디/main/images/salesforce_cert.png" width="300" />
+    </div>
+</div>
