@@ -21,9 +21,13 @@
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     </div>
 </div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
-    <div align= "center">
-      <img src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/administrator.png" width="300"/>
-    </div>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
+  <div align="center">
+    <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/administrator.png"
+      width="300"
+      alt="Salesforce Administrator Certification"
+    />
+  </div>
 </div>
