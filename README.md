@@ -26,7 +26,7 @@
     <p align="center">
       <img
   src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/administrator.png"
-  width="300"
+  width="150"
   alt="Salesforce Administrator Certification"
       />
     </p>
