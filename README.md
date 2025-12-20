@@ -25,9 +25,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>
     <p align="center">
       <img
-       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/administrator.png"
-       width="300"
-       alt="Salesforce Administrator Certification"
+  src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/administrator.png"
+  width="300"
+  alt="Salesforce Administrator Certification"
       />
     </p>
 </div>
