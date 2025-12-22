@@ -127,3 +127,17 @@
     />
   </p>
 </div>
+
+<!-- Training -->
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
+    Training 🎓
+  </h2>
+  <p align="center">
+    <img
+      src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/Tableau Bootcamp.jpg"
+      width="100"
+      alt="Salesforce Tableau Bootcamp"
+    />
+  </p>
+</div>
