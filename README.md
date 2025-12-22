@@ -10,10 +10,10 @@
     Contact me 💌
   </h2>
   <div align="center">
-      <a href="mailto:eses816@gmail.com">
+      <a href="mailto:eses816@gmail.com" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-      </a><a href="https://www.instagram.com/e_e__kiiki">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-left: -4px;">
+      </a><a href="https://www.instagram.com/e_e__kiiki" style="display: inline-block;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
       </a>
   </div>
 </div>
