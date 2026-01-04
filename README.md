@@ -117,13 +117,13 @@
   <p align="center">
     <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/administrator.png"
-      width="100"
+      width="120"
       alt="Salesforce Administrator Certification"
       style="margin-right: 10px;"
     />
     <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/agentforce.png"
-      width="100"
+      width="120"
       alt="Salesforce Agentforce Specialist Certification"
       style="margin-right: 10px;"
     />
@@ -131,7 +131,7 @@
   <p align="center">
     <img
       src="https://raw.githubusercontent.com/Eungu-Kim/Eungu-Kim/main/images/Tableau Bootcamp.jpg"
-      width="100"
+      width="120"
       alt="Salesforce Tableau Bootcamp"
       style="margin-left: 10px;"
     />
