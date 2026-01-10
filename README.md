@@ -43,6 +43,65 @@
 </div>
 
 <div style="margin-bottom: 30px;">
+  <h3>🔹 MAISON LAVIN – Salesforce CRM Application</h3>
+
+  <p>
+    <b>Organization</b> :
+    <a href="https://github.com/MAISON-LAVIN/maison-lavin-project">MAISON-LAVIN</a>
+  </p>
+
+  <p>
+    Salesforce 기반으로 Lead, Opportunity, Order, Case 데이터를 통합 관리하는<br/>
+    <b>End-to-End CRM 솔루션</b> 개발 프로젝트
+  </p>
+
+  <p>
+    <b>Role</b><br/>
+    Salesforce Developer
+  </p>
+
+  <p>
+    <b>Tech Stack</b><br/>
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LWC-0176D3?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Flow-5C2D91?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Experience%20Cloud-16325C?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge"/>
+  </p>
+
+  <p><b>What I Focused On</b></p>
+  <ul>
+    <li>
+      Lead, Account, Opportunity, Case, Order, Asset 기반의<br/>
+      <b>CRM 데이터 모델(ERD) 설계 및 관계 구성</b>
+    </li>
+    <li>
+      <b>LWC + Apex</b>를 활용한 커스텀 UI 개발<br/>
+      (고객 프로필 카드, 제품 커스터마이저, 견적 생성, 퀵 Case 생성 컴포넌트)
+    </li>
+    <li>
+      <b>Flow</b>를 활용한 비즈니스 로직 자동화<br/>
+      (Lead → Opportunity 자동 전환, Stage 자동 변경, Task / Email 자동 생성)
+    </li>
+    <li>
+      <b>Experience Cloud</b>를 활용한 고객 포털 구현<br/>
+      (로그인, 주문·견적 조회, 진행 상태 확인)
+    </li>
+    <li>
+      <b>외부 REST API</b> 연동<br/>
+      (주소 검색 및 지도 표시 기능 구현)
+    </li>
+  </ul>
+
+  <p>
+    🔗 <a href="https://github.com/MAISON-LAVIN/maison-lavin-project">
+      Project Repository
+    </a>
+  </p>
+</div>
+
+<div style="margin-bottom: 30px;">
   <h3>🔹 Helpforce Backend Development & Deployment</h3>
 
   <p>
