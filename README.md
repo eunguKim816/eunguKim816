@@ -58,7 +58,7 @@
   
   <p>
     <b>Role</b><br/>
-    Salesforce Developer
+    PL | Salesforce Developer & Admin
   </p>
 
   <p>
