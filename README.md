@@ -46,11 +46,6 @@
   <h3>🔹 MAISON LAVIN – Salesforce CRM Application</h3>
 
   <p>
-    <b>Organization</b> :
-    <a href="https://github.com/MAISON-LAVIN/maison-lavin-project">MAISON-LAVIN</a>
-  </p>
-
-  <p>
     Salesforce 기반으로 Lead, Opportunity, Order, Case 데이터를 통합 관리하는<br/>
     <b>End-to-End CRM 솔루션</b> 개발 프로젝트
   </p>
@@ -95,7 +90,7 @@
   </ul>
 
   <p>
-    🔗 <a href="https://github.com/MAISON-LAVIN/maison-lavin-project">
+    🔗 <a href="https://github.com/Eungu-Kim/maison-lavin-project">
       Project Repository
     </a>
   </p>
@@ -103,11 +98,6 @@
 
 <div style="margin-bottom: 30px;">
   <h3>🔹 Helpforce Backend Development & Deployment</h3>
-
-  <p>
-    <b>Organization</b> :
-    <a href="https://github.com/Help-force">Help-force</a>
-  </p>
 
   <p>
     Java와 Spring MVC 구조 학습을 목표로 진행한 팀 웹 애플리케이션 프로젝트로,  
