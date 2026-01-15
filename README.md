@@ -105,7 +105,7 @@
   </p>
 
   <p>
-    🔗 <a href="https://github.com/Help-force/Helpforce_BE">
+    🔗 <a href="https://github.com/Eungu-Kim/Helpforce_BE">
       Backend Repository
     </a><br/>
     📄 <a href="https://longhaired-gorilla-5e1.notion.site/276c7ba925808089ab63dfc51f30d1af">
